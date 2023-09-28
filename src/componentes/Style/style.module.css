@@ -99,3 +99,10 @@
     text-decoration: none;
     color: black;
 }
+.buttomcont{
+    width: 20%;
+    margin-left: 500px;
+    margin-right: 100px;
+    justify-content: center;
+    
+}
